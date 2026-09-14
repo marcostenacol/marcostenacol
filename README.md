@@ -43,7 +43,7 @@
 | [schedulling](https://github.com/marcostenacol/schedulling) | Sistema de agendamento, backend Java e frontend TypeScript. |
 | [rag-bot-auto-atendimento](https://github.com/marcostenacol/rag-bot-auto-atendimento) | Bot de autoatendimento com RAG, em Python. |
 
-Projetos ligados ao trabalho na AE3 (SIABES, SIAGRES) não estão listados aqui por serem privados e institucionais.
+Projetos ligados ao trabalho na AE3 não estão listados aqui por serem privados e institucionais.
 
 ### Contato
 
